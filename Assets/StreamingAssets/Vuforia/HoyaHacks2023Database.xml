@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="berry" size="1.000000 0.864912" />
+    <ImageTarget name="enzi3" size="1.000000 1.058098" />
+    <ImageTarget name="eerb3" size="1.000000 1.319676" />
+    <ImageTarget name="IMG_20230128_092457395_HDR" size="1.000000 0.816979" />
+    <ImageTarget name="IMG_20230128_083621591_HDR" size="1.000000 2.068674" />
+  </Tracking>
+</QCARConfig>
